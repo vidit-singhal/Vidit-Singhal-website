@@ -627,7 +627,7 @@ body.offcanvas .fh5co-nav-toggle {
   }
 }
 .work:hover .desc {
-  opacity: 1;
+  opacity: 0.8;
 }
 .work:hover .desc h3 {
   -webkit-transform: translate3d(0, 0, 0);
